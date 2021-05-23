@@ -1,0 +1,3 @@
+Account created!
+Balance changed to 20.0
+Balance checked at 20.0
